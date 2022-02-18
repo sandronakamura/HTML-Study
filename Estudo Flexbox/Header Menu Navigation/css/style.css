@@ -5,7 +5,7 @@
 
 #header {
     display: flex;
-    border-bottom: 1px solid #000000;
+    border-bottom: 2px solid rgb(67, 67, 255);
     justify-content: space-between;
     height: 88px;
 }
@@ -66,13 +66,13 @@ a {
 }
 
 #nav ul li a{
-    color: #000000; 
+    color: #FEA100; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.1em;
 }
 
 #nav ul li a:hover{
-    color: #423f3f; 
+    color: rgb(67, 67, 255); 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.1em;
 }
